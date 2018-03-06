@@ -1,4 +1,4 @@
 # hello-world
 It is a test
 
-Hi, this is the 3.0 version of Readme file 
+Hi, this is the 2.0 version of Readme file 
